@@ -36,7 +36,8 @@ APP IDEA
 I'd like to build a productivity app that helps users manage their time by tracking how long they spend on each applicaiton.
 Users can configure the set time limits for specific apps. The app will monitor usage in real-time, track daily, weekly, and
 monthly performance, and provide insights into usage pattterns. Once a user reaches their set time limit for a particular
-app, access to that app will be temporarily restricted to encourage better time management and reduce distractions.
+app, access to that app will be temporarily restricted to encourage better time management and reduce distractions. Such features
+
 ## Notes
 
 Describe any challenges encountered while building the app.
